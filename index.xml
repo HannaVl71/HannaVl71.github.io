@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Feb 2026 21:08:10 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Feb 2026 21:08:10 +0200</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is a post generated for the cloud lab. Here is a code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Hugo!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And here is an image:
+&lt;img alt=&#34;Hugo Logo&#34; loading=&#34;lazy&#34; src=&#34;https://gohugo.io/img/hugo-logo.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
